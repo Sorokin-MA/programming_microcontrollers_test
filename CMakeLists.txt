@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5.0)
 
-project(xmlrpc_client)
+project(main)
 
 set(SRC
     main.c)
